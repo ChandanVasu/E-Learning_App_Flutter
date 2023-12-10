@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277647750569",
+    "project_id": "plvasu",
+    "storage_bucket": "plvasu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277647750569:android:bac8b45d4fd84386b500b8",
+        "android_client_info": {
+          "package_name": "com.edu.plvasu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDndte7Yo1GcJp97hQPH_DtLXuRB0MmWwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
